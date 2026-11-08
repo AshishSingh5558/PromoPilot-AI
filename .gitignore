@@ -1,0 +1,9 @@
+# CONFIDENTIAL: Kuku's input pack and anything derived from it must never be published.
+outputs/
+input/
+*.zip
+!sample_data/**/*.zip
+.env
+.streamlit/secrets.toml
+__pycache__/
+*.pyc
